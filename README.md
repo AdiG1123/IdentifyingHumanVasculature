@@ -11,7 +11,7 @@ The kidney is a critical organ utilized in the elimination of waste product from
 The cortex of the kidney contain many small structures which can be confused for microvasculature such as glomerulus and collecting ducts.
 
 ### Goal
-Given a 2D histology slide identify segemnts of the image that contain blood vessels and segments of the image containing glomerulus.
+Given a 2D histology slide identify segments of the image that contain blood vessels and segments of the image containing glomerulus.
 
 ### Datasets
 
