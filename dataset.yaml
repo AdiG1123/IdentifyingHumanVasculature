@@ -1,0 +1,7 @@
+path: D:/HackingTheHumanVasculature/IdentifyingHumanVasculature
+train: D:/HackingTheHumanVasculature/IdentifyingHumanVasculature/yolo_data/train
+val: D:/HackingTheHumanVasculature/IdentifyingHumanVasculature/yolo_data/test
+
+names:
+    0: vasculature
+    1: glomerulus
