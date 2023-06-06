@@ -28,3 +28,13 @@ The training data includes Dataset 2 tiles from the public test WSI, but not fro
 
 >We also include, as Dataset 3, tiles extracted from an additional nine WSIs. These tiles have not been annotated. You may wish to apply semi- or self-supervised learning techniques on this data to support your predictions.
 
+### Utilize Yolov8
+Yolov8 is a CNN model with a specific model designed towards segmentation.
+
+
+#### Initial Training Results
+![Alt text](result_images/results.png)
+
+![Alt text](result_images/confusion_matrix_normalized.png)
+
+Since the number of glomerulus features was quite low (n=36) results are not smooth. We reach 48.667% for highest box mAP score and the segmentation mask mAP reaches 46.594%.
